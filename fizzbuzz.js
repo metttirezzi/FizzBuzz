@@ -3,7 +3,7 @@
 // Disivible by both 3 and 5 => Fizzbuzz
 // Not Divisible by 3 or 5 => input 
 // Not a number => 'Not a number'
-
+//it all depends on your input your input come from inside program's itself 
 const output = fizzBuzz(true);
 console.log(output);
 
