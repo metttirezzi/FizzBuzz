@@ -1,4 +1,4 @@
-// in this progam you have solutions to empty array
+// 4 solutions to empty an array 
 
 let numbers = [1, 2 , 3 , 4];
 let another = numbers;
