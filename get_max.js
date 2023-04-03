@@ -11,7 +11,7 @@ function getMax(array) {
 
  //   for ( let i = 1 ; i < array.length ; i++ )
  //      if ( array[i] > max )
-  //       max = array[i];
+ //       max = array[i];
  //        return max; 
   return array.reduce(( a , b ) => ( a > b ) ? a : b );
     
