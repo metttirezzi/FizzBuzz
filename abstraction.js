@@ -28,7 +28,7 @@ function Circle(radius) {
             return defaultLocation;
           },
           set : function(value) {
-              if (!value.x || !value.y )
+              if (!value.x || !value.y ). // using falsy 
               throw new Error('Invalid Location');
               defaultLocation : value;
 
